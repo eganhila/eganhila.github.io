@@ -13,7 +13,7 @@ I hold a Bachelor's degree in Physics from Michigan State University and a PhD i
 
 If you are a scientist, student, or potential collaborator interested in applying AI & computational science in renewable energy relevant domains, please reach out!
 
-Research Interests
+Computational Research Interests
 ------------------
 * Deep learning
 * High-performance computing
@@ -21,3 +21,10 @@ Research Interests
 * Uncertainty quantification
 * Statistical inference
 * Differentiable simulations
+
+Domain Applications
+------------------
+* Materials Synthesis and Characterization
+* Building Technologies
+* Biofuels & Bioenergy
+* Plasma Physics
