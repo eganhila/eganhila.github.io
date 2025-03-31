@@ -10,3 +10,14 @@ I'm Hilary Egan, a computational data scientist at the National Renewable Energy
 
 
 I hold a Bachelor's degree in Physics from Michigan State University and a PhD in Astrophysics and Planetary Science from the University of Colorado Boulder. Outside of work I enjoy all sorts of classic Colorado activities including rock climbing, mountain biking, and skiing – though I'll never say no to a good book either.
+
+If you are a scientist, student, or potential collaborator interested in applying AI & computational science in renewable energy relevant domains, please reach out!
+
+Research Interests
+------------------
+* Deep learning
+* High-performance computing
+* Multi-fidelity methods
+* Uncertainty quantification
+* Statistical inference
+* Differentiable simulations
