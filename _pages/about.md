@@ -19,8 +19,9 @@ Computational Research Interests
 * High-performance computing
 * Multi-fidelity methods
 * Uncertainty quantification
-* Statistical inference
 * Differentiable simulations
+* Autonomous, scalable workflows
+* Digital Twins
 
 Domain Applications
 ------------------
